@@ -1,4 +1,4 @@
-#### whatTheyDontWantYouToKnow
+# whatTheyDontWantYouToKnow
 A bunch of sexy math topics covered by sexy math textbooks for those studying in a field neighbouring math, such as CS and will never be thought these topics by their uni. 
 
 Please respect the folder structure and other than that, any pull request are open and encouraged!
@@ -14,6 +14,7 @@ System.out.print("CS is o(Math)")
 
 ## How to upload
 Simply name your file in camelCase and push to appropriate folder or create a new one if needed. 
+
 __For self published articles, please name as "topic-yourName"__
 
 Merci!
