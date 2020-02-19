@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="queue">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TSTU/lib/queue.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
